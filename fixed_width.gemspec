@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/fledman/fixed_width"
 
   s.require_paths = ["lib"]
-  spec.required_ruby_version = '>= 1.9'
+  s.required_ruby_version = '>= 1.9'
   s.add_dependency 'activesupport', '>= 3'
 
   s.extra_rdoc_files = %w{README.markdown TODO}

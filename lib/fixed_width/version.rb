@@ -1,3 +1,3 @@
 module FixedWidth
-  VERSION = ""
+  VERSION = "0.1"
 end
